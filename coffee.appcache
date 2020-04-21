@@ -1,8 +1,8 @@
 CACHE MANIFEST
-# 2018-05-14T13:56:30-07:00
+# 2020-04-21T09:56:11-07:00
 index.html
-https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css
-https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js
-https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/fonts/glyphicons-halflings-regular.woff
+css/bootstrap.min.css
+js/jquery.min.js
+fonts/glyphicons-halflings-regular.woff
 js/fastclick.js
 img/icon_512.png
